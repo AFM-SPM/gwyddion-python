@@ -4,7 +4,7 @@ A dockerised Gwyddion with functioning Python support based on Linux.
 ## Instructions
 
 1. Install docker or docker desktop.
-2. Build the conatiner
+2. Build the container
 ```
 docker build -t gwyddion-python .
 ```
